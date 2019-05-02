@@ -1,0 +1,13 @@
+D:\Anton\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe.config
+D:\Anton\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe
+D:\Anton\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.pdb
+D:\Anton\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.csprojAssemblyReference.cache
+D:\Anton\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.csproj.CoreCompileInputs.cache
+D:\Anton\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.exe
+D:\Anton\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.pdb
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe.config
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\obj\Debug\ResponsiPemrog.exe
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\obj\Debug\ResponsiPemrog.pdb
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\bin\Debug\ResponsiPemrog.pdb
+D:\@\#Visual Studio\Project 2\ResponsiPemrog\obj\Debug\ResponsiPemrog.csprojResolveAssemblyReference.cache
